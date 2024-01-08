@@ -8,7 +8,7 @@ I'm an IT Consultant at Lufthansa Industry Solutions based in the greater Frankf
 ### Contact Information
 
 - Email: hendrik.gruber@lhind.dlh.de
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hendrik-gruber/)
+- LinkedIn: https://www.linkedin.com/in/hendrik-gruber/
 
 Feel free to reach out if you have any questions or collaboration ideas!
 
