@@ -14,7 +14,7 @@ Feel free to reach out if you have any questions or collaboration ideas!
 
 🛫 I'm employed at [Lufthansa Industry Solutions](https://www.lufthansa-industry-solutions.com/de-de/)
 
-📚 I'm currently studying at the [Darmstadt University of Applied Sciences](https://h-da.de/)
+📚 I'm currently studying at the [Frankfurt University of Applied Sciences]([https://h-da.de/](https://www.frankfurt-university.de/))
 
 
 <img src="https://www.lufthansa-industry-solutions.com/fileadmin/_processed_/2/c/csm_logo-blue-lhind_520be09754.png" width="200">
