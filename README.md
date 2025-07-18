@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm an IT Consultant at Lufthansa Industry Solutions from Frankfurt, Germany. I have a passion for technology and people.
+I'm an IT Consultant at Lufthansa Industry Solutions from Frankfurt, Germany.
 
 ### Contact Information
 
